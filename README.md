@@ -2,7 +2,7 @@
 - 👀 I’m interested in real estate, finance, and general statistical programming
 - 🌱 I’m currently learning anything I can get my hands on wrt data!
 - 💞️ I’m looking to collaborate on webapps, finance related projects, data modelling/visualization projects.
-- 📫 Reach me @doublebigmak on twitter
+- 📫 Reach me @michaelhmak on twitter
 
 <!---
 doublebigmak/doublebigmak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
